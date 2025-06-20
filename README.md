@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own [website](https://www.myitounge.de)<br>
+🔭 I’m currently working on my own [website](https://www.myitlounge.de)<br>
 🌱 I’m currently learning python and web development<br>
 <!-- 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
